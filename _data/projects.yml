@@ -1,9 +1,34 @@
-# Project template
+## Project template
+#- layout: top-middle
+#  name: Project name
+#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+#  quote: >
+#    Short overview of the project (optional)
+#  description: | # this will include new lines to allow paragraphs
+#    Description about the work on/with the project
+
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Consumer Landing
   quote: >
-    Short overview of the project (optional)
+    January 2017 – December 2018
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Worked as a lead java developer in Consumer Landing Collection Team. Consumer Landing is based on CQRS and Event Driven Microservice Architecture. Consumer Landing is a web-based portal for managing and servicing consumer loan.
+
+      Technology:
+
+      - Spring Boot, Spring Data JPA (Hibernate), Spring Cloud, Spring Batch, Oracle, Axon, Docker and
+        JavaScript/Angular
+
+      Responsibility:
+
+      - Developed restful services using spring boot and spring cloud.
+      - Designed and deliver features end to end.
+      - Implemented third-party integration using apache camel and spring.
+      - Implemented spring cloud contract tests.
+      - Integration of service discovery and load balancing using Eureka and Zuul.
+
+
+
+
+
