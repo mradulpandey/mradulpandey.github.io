@@ -1,10 +1,36 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: Tesco
+  link: https://www.tesco.com/
+  job_title: SDE 2
+  dates: June 2016 - present
+
+- layout: left
+  company: Societe Generale
+  link: https://www.societegenerale.com/
+  job_title: Lead Technical Engineer
+  dates: December 2018 – Jun 2019
+
+- layout: left
+  company: Barclays
+  link: https://home.barclays/
+  job_title: Senior Developer
+  dates: January 2017 - December 2018
+
+- layout: left
+  company: MetaDesign Solutions
+  link: https://metadesignsolutions.com/
+  job_title: Team Lead
+  dates: May 2015 - January 2017
+
+- layout: left
+  company: Nagarro
+  link: https://www.nagarro.com/en
+  job_title: Senior Associate Technology
+  dates: August 2014 – May 2015
+
+- layout: left
+  company: MetaDesign Solutions
+  link: https://metadesignsolutions.com/
+  job_title: Software Engineer
+  dates: September 2011 - August 2014
