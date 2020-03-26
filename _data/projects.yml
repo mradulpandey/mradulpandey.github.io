@@ -9,6 +9,22 @@
 #    Description about the work on/with the project
 
 - layout: top-middle
+  name: Loan Studio
+  quote: >
+    December 2018 – Jun 2019
+  description: |
+    Worked as a lead technical engineer in Loan Studio team. Loan Studio is based on Event Driven Microservice Architecture. Loan Studio is a web-based portal for structuring loan deals for big corporate clients.
+
+     Technology:
+      - Spring Boot, Spring Data JPA (Hibernate), Spring Cloud, Spring Batch, Oracle, Docker and
+      JavaScript/Angular, Hashicorp vault
+
+     Responsibility:
+     - Developed restful services using spring boot and spring cloud.
+     - Migrated feature from old system to new system.
+     - Implemented spring starter modules.
+
+- layout: top-middle
   name: Consumer Landing
   quote: >
     January 2017 – December 2018
@@ -27,8 +43,5 @@
       - Implemented third-party integration using apache camel and spring.
       - Implemented spring cloud contract tests.
       - Integration of service discovery and load balancing using Eureka and Zuul.
-
-
-
 
 
